@@ -2,7 +2,7 @@
    
 ## MS Thesis   
     
-This analysis was part of my MS thesis. It was successfully completed and the result is a MATLAB program called [MixMAs](). The thesis is published and can be accessed from this [link]().   
+This analysis was part of my MS thesis. It was successfully completed and the result is a MATLAB program called [MixMAs](https://github.com/rali88/Mixed-Motion-Analysis/blob/master/Mixed%20Motion%20Analysis.mlappinstall). The thesis is published and can be accessed from this [link](https://github.com/rali88/Mixed-Motion-Analysis/blob/master/Thesis.pdf).   
    
    
 ## Need for this analysis and the goals of this analysis   
@@ -19,17 +19,17 @@ This analysis was part of my MS thesis. It was successfully completed and the re
     
 ## Deliverables
    
-[Written thesis]().   
+[Written thesis](https://github.com/rali88/Mixed-Motion-Analysis/blob/master/Thesis.pdf).   
 
-[Matlab installer file]().   
+[Matlab installer file](https://github.com/rali88/Mixed-Motion-Analysis/blob/master/Thesis.pdf).   
    
-[Matlab sorce code]().
+[Matlab sorce code](https://github.com/rali88/Mixed-Motion-Analysis/blob/master/MixMAs.m).
 
-[Slide deck showing an overview of the project]()
+[Slide deck showing an overview of the project](https://github.com/rali88/Mixed-Motion-Analysis/blob/master/ThesisPresentation-RehanAli.pptx)
 
 ## Example video and citation
    
-[Video showing the efficiency and user-friendliness of the program]()
+[Video showing the efficiency and user-friendliness of the program](https://github.com/rali88/Mixed-Motion-Analysis/blob/master/MatlabExample.flv)
    
 Please cite the following when using this program:   
    
